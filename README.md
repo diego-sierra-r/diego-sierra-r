@@ -15,7 +15,8 @@
   
 ---  
   
-Hey there
+Hey there, this is my personal page: ![my_page](https://diego-sierra-r.netlify.app/)
+
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -49,11 +50,9 @@ you want in your profile:
   <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original-wordmark.svg" alt="inkscape" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg title="Google" alt="Google" width="40" height="40"
 </div>                                                                                                                                           
                                                                                                                                                --
----
                                                                                                                                                
 ### :fire: My Stats
                                                                                                                                                
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-sierra-r)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-sierra-r&layout=compact)
