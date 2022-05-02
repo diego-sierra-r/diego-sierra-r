@@ -51,8 +51,9 @@ you want in your profile:
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg title="Google" alt="Google" width="40" height="40"
 </div>                                                                                                                                           
-                                                                                                                                               ---
-
+                                                                                                                                               --
+---
+                                                                                                                                               
 ### :fire: My Stats
                                                                                                                                                
-                                                                                                                                               [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-sierra-r&langs_count=5&theme=tokyonight)]()
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-sierra-r)
