@@ -15,7 +15,7 @@
   
 ---  
   
-Hey there, this is my personal page: [my_page](https://diego-sierra-r.netlify.app/)
+## Hey there, here is my personal page: [diego-sierra-r.netlify.app](https://diego-sierra-r.netlify.app/)
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
