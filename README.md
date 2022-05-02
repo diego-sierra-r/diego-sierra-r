@@ -26,7 +26,7 @@ Hey there
 ---
 ### About me: 
 
-I am a researcher from Colombia who loves to write code <img src="https://media.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.gif" width="20">.
+I am a researcher from Colombia who loves to write code <img src="https://media.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.gif" width="25">.
 - :man_scientist: I'm biologist.
 - :man_technologist: I'm data scientist.
 - :man_teacher: I love teaching.
@@ -49,15 +49,10 @@ you want in your profile:
   <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original-wordmark.svg" alt="inkscape" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg title="Google" alt="Google" width="40" height="40"/
+  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg title="Google" alt="Google" width="40" height="40"
 </div>                                                                                                                                           
                                                                                                                                                ---
 
-### :fire: My Stats :
-
-                                                                                                                                               [![![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diego-sierra-r&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-                                                                                                                                               [![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-sierra-r&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
+### :fire: My Stats
                                                                                                                                                
+                                                                                                                                               [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-sierra-r&langs_count=5&theme=tokyonight)]()
