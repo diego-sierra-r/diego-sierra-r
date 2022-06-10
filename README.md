@@ -17,7 +17,7 @@
   
 ## Hey there, here is my personal page: [diego-sierra-r.netlify.app](https://diego-sierra-r.netlify.app/)
 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70"/>
 </h1>
 
 <div align="center">
@@ -31,7 +31,7 @@ I am a researcher from Colombia who loves to write code <img src="https://media.
 - :man_scientist: I'm biologist.
 - :man_technologist: I'm data scientist.
 - :man_teacher: I love teaching.
-- :dna: In my free time I learnt about bioinformatics.
+- :dna: In my free time I learn about bioinformatics.
 
 ---
 
