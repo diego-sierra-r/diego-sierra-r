@@ -4,7 +4,7 @@
   <a href="https://twitter.com/DiegoSierraRa" align="center">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/diegosierrar?challengeId=AQEKXw6qwsBtgwAAAYCFHjAcZGWF7pjXngj6mFKrvMyKQlngRRQs-M98FSXgIK6-c01uphBAaeEZWChkVVUm7KpqMU-7dVrNvg&submissionId=5db6fbd2-374f-eb16-401a-78a6b84bfc52" align="center">
+  <a href="https://www.linkedin.com/in/diego-sierra-288172121/" align="center">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge"/>
   </a>
   
